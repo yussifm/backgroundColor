@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "backgroundColor"
+    }
+  },
+  "defaultProject": "backgroundColor",
+  "cli": {
+    "analytics": "7c8fe8bb-1c64-4e3e-8066-06aa2617fbe2"
+  }
 }
